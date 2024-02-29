@@ -5,13 +5,13 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        primary: "#00040f",
-        secondary: "#00f6ff",
-        dimWhite: "rgba(255, 255, 255, 0.7)",
-        dimBlue: "rgba(9, 151, 124, 0.1)",
+        white: "#ffffff",
+        grey: "#808080",
+        black: "#121212",
+        yellow: "#f4d04e",
       },
       fontFamily: {
-        poppins: ["Poppins", "sans-serif"],
+        figtree: ["Figtree", "sans-serif"],
       },
     },
     screens: {
